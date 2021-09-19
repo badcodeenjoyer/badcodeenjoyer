@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @badcodeenjoyer
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning C#/.NET
+- 🌱 I’m currently learning C# and JS
 - 📫 How to reach me : telegram @badcodeenjoyer
 
 <!---
