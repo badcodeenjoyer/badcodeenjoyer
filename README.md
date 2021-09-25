@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @badcodeenjoyer
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning C# and JS
-- 📫 How to reach me : telegram @badcodeenjoyer
+- 📫 How to reach me : telegram @IAmBadcodeenjoyer
 
 <!---
 badcodeenjoyer/badcodeenjoyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
